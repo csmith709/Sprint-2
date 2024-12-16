@@ -1,0 +1,122 @@
+[{
+    "name": "Paco",
+    "AdoptionStat": "Available",
+    "age": 2,
+    "breed": "Border collie",
+    "gender": "Male",
+    "isNeutered": true,
+    "isGoodKids": false,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Autumn",
+    "AdoptionStat": "Pending",
+    "age": 5,
+    "breed": "Beagle",
+    "gender": "Female",
+    "isNeutered": false,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": false
+},{
+    "name": "Shatzi",
+    "AdoptionStat": "Palative foster only",
+    "age": 11,
+    "breed": "Golden retriever",
+    "gender": "Female",
+    "isNeutered": true,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Holly",
+    "AdoptionStat": "Available",
+    "age": 1,
+    "breed": "Akita",
+    "gender": "Female",
+    "isNeutered": false,
+    "isGoodKids": false,
+    "isGoodDogs": false,
+    "isGoodCats": true
+},{
+    "name": "Hasbro",
+    "AdoptionStat": "Available",
+    "age": 0.5,
+    "breed": "Greyhound",
+    "gender": "Male",
+    "isNeutered": false,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": false
+},{
+    "name": "Niles",
+    "AdoptionStat": "Pending",
+    "age": 0.8,
+    "breed": "Chihuahua",
+    "gender": "Male",
+    "isNeutered": false,
+    "isGoodKids": false,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Lola",
+    "AdoptionStat": "Currently unavailable",
+    "age": 4,
+    "breed": "Cane corso",
+    "gender": "Female",
+    "isNeutered": true,
+    "isGoodKids": false,
+    "isGoodDogs": false,
+    "isGoodCats": false
+},{
+    "name": "Nero",
+    "AdoptionStat": "Available",
+    "age": 8,
+    "breed": "Greyhound",
+    "gender": "Male",
+    "isNeutered": true,
+    "isGoodKids": false,
+    "isGoodDogs": false,
+    "isGoodCats": false
+},{
+    "name": "Brody",
+    "AdoptionStat": "Available",
+    "age": 12,
+    "breed": "Mixed breed",
+    "gender": "Male",
+    "isNeutered": true,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Owen",
+    "AdoptionStat": "Currently unavailable",
+    "age": 0.2,
+    "breed": "Mixed breed",
+    "gender": "Male",
+    "isNeutered": false,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Fable",
+    "AdoptionStat": "Available",
+    "age": 2,
+    "breed": "Shetland sheepdog",
+    "gender": "Female",
+    "isNeutered": true,
+    "isGoodKids": true,
+    "isGoodDogs": true,
+    "isGoodCats": true
+},{
+    "name": "Witcher",
+    "AdoptionStat": "Available",
+    "age": 4.5,
+    "breed": "Rottweiler",
+    "gender": "Male",
+    "isNeutered": false,
+    "isGoodKids": true,
+    "isGoodDogs": false,
+    "isGoodCats": true
+}
+]
